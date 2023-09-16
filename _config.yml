@@ -7,7 +7,7 @@ url: https://yiiizuo.github.io/
 # Owner/author information
 owner:
   name: Yi Zuo
-  avatar: hanlin.jpg
+  avatar: yizuo.jpg
  # bio:
   email: yiiizuo@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -48,7 +48,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown

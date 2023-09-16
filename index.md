@@ -8,18 +8,18 @@ layout: page
 
 Here is **Yi Zuo (左谊)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a second year master's student majoring in **Computer Science and Technology** from the School of Artificial Intelligence at Xidian University. Currently, I am working as a research assistant in the **IPIU Lab** (the Key Laboratory of Intelligent Perception and Image Understanding of the Ministry of Education of China). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads! Intention to Hong Kong!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2018 - June 2022:** Xidian University (School of Economics and Management-Electronic Commerce)
+- **Sep 2022 - Now:** Xidian University (School of Artificial Intelligence-Computer Science and Technology)
+- After graduating with a master's degree, I am looking for a doctoral position! Intention to Hong Kong!
 
 <br>
 
@@ -27,11 +27,11 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Semantic Segmentation
+- Change Detection in Remote Sensing
+- Open-Vocabulary
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focus is on **computer vision**. I hope to dedicate my talents to this meaningful cause and bring happiness to society.
 
 <br>
 
@@ -39,10 +39,12 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Sep 2023：**TGRS paper in submission.
+- **Sep 2023：**ICCV2023 [UNCV2023 MUAD Uncertainty Estimation for Semantic Segmentation Challenge](https://uncv2023.github.io/)  Champion.
+- **Sep 2023：**ICCV2023 [The 5th Large-scale Video Object Segmentation Challenge Track1](https://youtube-vos.org/challenge/2023/) Champion.
+- **May-June 2023：**Awarded on CVPR2023 [UG^2+ Track2](http://cvpr2023.ug2challenge.org/track2.html), [Epic-Kitchens Challenge](https://epic-kitchens.github.io/2023), [Epic-Kitchens Challenge](https://epic-kitchens.github.io/2023)
+- **Sep 2022：**ECCV2022 [AIM 2022 Instagram Filter Removal Challenge](https://data.vision.ee.ethz.ch/cvl/aim22/) Champion.
+- **Sep 2022：**Master's student at Xidian University, supervised by Professor [Li Cheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en).
+- **June 2022：**Graduated from Xidian University with a degree in Management.
+- **May 2022：**SenseTime Internship for 9 months-Received the SenseTime Future Star Award of 2022 Year.
+<!-- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)]. -->
