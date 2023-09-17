@@ -49,6 +49,7 @@ My current research focus is on **computer vision**. I hope to dedicate my talen
 - **Sep 2022：**Master's student at Xidian University, supervised by Professor [Li Cheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en).
 - **July 2022：**Responsible for the Apollo intelligent unmanned vehicle.
 - **June 2022：**Graduated from Xidian University with a degree in Management.
-- **May 2022：**SenseTime Internship for 9 months-Received the SenseTime Future Star Award of 2022 Year. Deeply participate in CareNurse.
+- **Jan 2022：**Received the SenseTime Future Star Award of 2022 Year (20 people each year).
+- **Sep 2021：**SenseTime Internship for 9 months. Deeply participate in CareNurse.
 - **May 2021：**Participated in the Robomaster Masters, responsible for visual algorithms.
 <!-- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)]. -->

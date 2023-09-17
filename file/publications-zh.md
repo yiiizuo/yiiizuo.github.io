@@ -6,7 +6,7 @@ title: Publications-zh
 
 ## 数学建模竞赛论文
 
-- [重塑马塞马拉的无上辉煌 (英文)](../../mypaper/modeling/C202027004040.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名**Finalist** (Top 1%)<br>
+- [重塑马塞马拉的无上辉煌 (英文)](https://yiiizuo.github.io//mypaper/modeling/C202027004040.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名**Finalist** (Top 1%)<br>
 
 
 ## 美国大学生数学建模竞赛论文
