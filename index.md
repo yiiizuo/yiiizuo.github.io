@@ -30,6 +30,7 @@ I am a second year master's student majoring in **Computer Science and Technolog
 - Semantic Segmentation
 - Change Detection in Remote Sensing
 - Open-Vocabulary
+- Intelligent Robot
 
 My current research focus is on **computer vision**. I hope to dedicate my talents to this meaningful cause and bring happiness to society.
 
@@ -37,14 +38,17 @@ My current research focus is on **computer vision**. I hope to dedicate my talen
 
 ---
 
-## News and Updates
+## News and Updates(some key)
 
 - **Sep 2023：**TGRS paper in submission.
 - **Sep 2023：**ICCV2023 [UNCV2023 MUAD Uncertainty Estimation for Semantic Segmentation Challenge](https://uncv2023.github.io/)  Champion.
 - **Sep 2023：**ICCV2023 [The 5th Large-scale Video Object Segmentation Challenge Track1](https://youtube-vos.org/challenge/2023/) Champion.
+- **July 2023：**Responsible for the eye-controlled intelligent wheelchair project.
 - **May-June 2023：**Awarded on CVPR2023 [UG^2+ Track2](http://cvpr2023.ug2challenge.org/track2.html), [Epic-Kitchens Challenge](https://epic-kitchens.github.io/2023), [Epic-Kitchens Challenge](https://epic-kitchens.github.io/2023)
 - **Sep 2022：**ECCV2022 [AIM 2022 Instagram Filter Removal Challenge](https://data.vision.ee.ethz.ch/cvl/aim22/) Champion.
 - **Sep 2022：**Master's student at Xidian University, supervised by Professor [Li Cheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en).
+- **July 2022：**Responsible for the Apollo intelligent unmanned vehicle.
 - **June 2022：**Graduated from Xidian University with a degree in Management.
-- **May 2022：**SenseTime Internship for 9 months-Received the SenseTime Future Star Award of 2022 Year.
+- **May 2022：**SenseTime Internship for 9 months-Received the SenseTime Future Star Award of 2022 Year. Deeply participate in CareNurse.
+- **May 2021：**Participated in the Robomaster Masters, responsible for visual algorithms.
 <!-- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)]. -->
