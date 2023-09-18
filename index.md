@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yi Zuo (左谊)**.
 
-I am a second year master's student majoring in **Computer Science and Technology** from the School of Artificial Intelligence at Xidian University. Currently, I am working as a research assistant in the **IPIU Lab** (the Key Laboratory of Intelligent Perception and Image Understanding of the Ministry of Education of China). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a second year master's student majoring in **Computer Science and Technology** from the School of Artificial Intelligence at Xidian University. Currently, I am working as a research assistant in the **IPIU Lab** (the Key Laboratory of Intelligent Perception and Image Understanding of the Ministry of Education of China). Here is [[my resume](https://caihanlin.com/file/zuoyi-2022master-cv.pdf)].
 
 
 <br>

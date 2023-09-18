@@ -42,3 +42,19 @@ Lastest Update: 17th Sep 2023
 - June 2022 - Now：2022 Master's student and class monitor at the School of Artificial Intelligence
 - June 2019 - Sep 2020：Director of the Learning Department of the Student Union in Xidian University
 - June 2019 - Sep 2020：Vice Minister of the Activities Department of the Science and Technology Association in Xidian University
+
+## Some competition certificates:
+<img src="/images/SenseTimeFutureStar.jpg">
+
+<img src="/images/AIM_cerificates.png">
+
+<img src="/images/MUAD_certificate.png">
+
+<img src="/images/Epic_certificate.png">
+
+<img src="/images/CCCCAI.png">
+
+<img src="/images/Internet+.jpg">
+
+<img src="/images/RM.jpg">
+
