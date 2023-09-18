@@ -42,3 +42,10 @@ In the competition, I served as the deputy leader of the drone team (responsible
 My job responsibilities:<br>
 (1) Responsible for the visual recognition algorithm of drone robots towards the ground and the overall technical roadmap development of drones.<br>
 (2) Responsible for project management of the entire team, including but not limited to: season planning, mid-term assessment, task planning, etc.
+
+# Some Photos
+
+<img src="/images/photo1.jpeg">
+<img src="/images/photo3.jpg">
+<img src="/images/photo4.jpg">
+<img src="/images/photo5.png">

@@ -6,6 +6,9 @@ title: Hobbies
 
 # Hobbies
 None
+
+
+
 <!-- ## Teaching & Workshops -->
 
 <!-- <div class="third">

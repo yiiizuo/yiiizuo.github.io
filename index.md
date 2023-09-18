@@ -53,3 +53,8 @@ My current research focus is on **computer vision**. I hope to dedicate my talen
 - **Sep 2021：**SenseTime Internship for 9 months. Deeply participate in CareNurse.
 - **May 2021：**Participated in the Robomaster Masters, responsible for visual algorithms.
 <!-- - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)]. -->
+
+---
+
+## WeChat
+<img src="/images/WeChat.jpg">
