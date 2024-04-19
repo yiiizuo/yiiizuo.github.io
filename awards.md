@@ -60,6 +60,8 @@ Lastest Update: 19th April 2024
 - May 2019 - June 2020: The production team leader of Xidian's official WeChat tweet.
 
 ## Some competition certificates:
+<img src="/images/iccv20231.jpg">
+
 <img src="/images/SenseTimeFutureStar.jpg">
 
 <img src="/images/AIM_cerificates.png">
