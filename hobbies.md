@@ -5,7 +5,6 @@ title: Hobbies
 ---
 
 # Hobbies
-None
 
 
 
