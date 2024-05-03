@@ -17,11 +17,10 @@ I am a second-year master's student majoring in **Computer Science and Technolog
 
 **<font color='red'>[Highlight]</font> I am looking for a doctoral degree starting in the autumn of 2025. If you are interested in me, please contact me! Interested in Hong Kong!**
 
-I will reply to any emails related to doctoral recruitment, if you have not received my reply. Please try my other email: yzuo_1@stu.xidian.edu.cn.
+I will reply to any emails related to PhD, if you have not received my reply. Please try my other email: yzuo_1@stu.xidian.edu.cn.
 
 - **Sep 2018 - June 2022:** Xidian University (School of Economics and Management-Electronic Commerce).
-- **Sep 2022 - June 2025:** Xidian University (School of Artificial Intelligence-Computer Science and Technology), supervised by [Prof. Li Cheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)
-- After graduating with a master's degree, I am looking for a doctoral position! Intention to Hong Kong!
+- **Sep 2022 - June 2025:** Xidian University (School of Artificial Intelligence-Computer Science and Technology), supervised by [Prof. Cheng Jiao Li](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)
 
 <br>
 
