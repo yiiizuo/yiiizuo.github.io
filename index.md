@@ -15,7 +15,7 @@ I am a second-year master's student majoring in **Computer Science and Technolog
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for a doctoral degree starting in the autumn of 2025. If you are interested in me, please contact me! Interested in Hong Kong!**
+**<font color='red'>[Highlight]</font> I am looking for a doctoral degree starting in the autumn of 2025. If you are interested in me, please contact me!**
 
 I will reply to any emails related to PhD, if you have not received my reply. Please try my other email: yzuo_1@stu.xidian.edu.cn.
 
