@@ -5,7 +5,7 @@ title: Awards
 ---
 
 <!-- Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/) -->
-Lastest Update: 19th April 2024
+Lastest Update: 8th May 2024
 
 ## Scholarships
 
@@ -28,11 +28,11 @@ Lastest Update: 19th April 2024
 - 2022 Artificial Intelligence Creative Competition of China University Computer Competition (CCCAI)
 
 ### Second Place:
+- The 7th China International “Internet+” Innovation and Entrepreneurship Competition for University Students.
+- ROBOMASTER 2020 Robot Master Challenge of the National College Robot Competition.
 - CVPR2023 6th UG2+ Challenge Runner-Up.
 - CVPR2023 EPIC-Kitchens Dataset Challenges Hand-Object Segmentation Track.
 - CVPR2023 EPIC-Kitchens Dataset Challenges Semi-Supervised Video Object Segmentation.
-- ICCV2021 Learning to Understand Aerial Images Challenge.
-- ROBOMASTER 2020 Robot Master Challenge of the National College Robot Competition.
 
 ### Third Place:
 - CVPR2023 OmniLabel Challenge 2023 Tracks B.
@@ -41,6 +41,7 @@ Lastest Update: 19th April 2024
 
 ### Other:
 
+- Nov 2021：Second Prize of China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition.
 - Sep 2021：First Prize of Shaanxi Province in China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition.
 - Apr 2021：Mathematical Modeling Thesis for American College Students, Finalist Award.
 - Dec 2020: National College Student Data Modeling Competition, First Prize in Shaanxi Province.
