@@ -25,7 +25,7 @@ Lastest Update: 8th May 2024
 - ICCV2023 MUAD Uncertainty Estimation for Semantic Segmentation Challenge.
 - ECCV2022 AIM 2022 Challenge on Instagram Filter Removal.
 - ICCV2023 The 5th Large-scale Video Object Segmentation Challenge - Track 1: Video Object Segmentation.
-- 2022 Artificial Intelligence Creative Competition of China University Computer Competition (CCCAI)
+- 2020 Artificial Intelligence Creative Competition of China University Computer Competition (C4-AI)
 
 ### Second Place:
 - The 7th China International “Internet+” Innovation and Entrepreneurship Competition for University Students.
