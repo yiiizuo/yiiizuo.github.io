@@ -5,7 +5,7 @@ title: Publications
 ---
 
 <!-- Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](../file/publications-zh/) -->
-Lastest Update: 8th May 2024
+Lastest Update: 19th November 2024
 
 ## Paper
 

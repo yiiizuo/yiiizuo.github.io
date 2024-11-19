@@ -5,10 +5,10 @@ title: Awards
 ---
 
 <!-- Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/) -->
-Lastest Update: 8th May 2024
+Lastest Update: 19th November 2024
 
 ## Scholarships
-
+- Nov 2024：National Scholarship, the Chinese Ministry of Education.
 - Nov 2023：First-class Scholarship, Xidian University.
 - Nov 2023：Langchao Scholarship, Xidian University.
 - Sep 2022：Freshman First-class Scholarship, Xidian University.

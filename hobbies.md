@@ -5,6 +5,12 @@ title: Hobbies
 ---
 
 # Hobbies
+Lastest Update: 19th November 2024
+
+## Vocal Music
+- School choir, Xidian University.
+
+
 
 
 

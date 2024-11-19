@@ -8,16 +8,14 @@ layout: page
 
 Here is **Yi Zuo (左谊)**.
 
-I am a second-year master's student majoring in **Computer Science and Technology** from the School of Artificial Intelligence at [Xidian University](https://www.xidian.edu.cn/). Currently, I am working in the **IPIU Lab** (the Key Laboratory of Intelligent Perception and Image Understanding of the Ministry of Education of China). Here is [[my resume](./file/zuoyi-2022master-cv.pdf)].
+I am a three-year master's student majoring in **Computer Science and Technology** from the School of Artificial Intelligence at [Xidian University](https://www.xidian.edu.cn/). Currently, I am working in the **IPIU Lab** (the Key Laboratory of Intelligent Perception and Image Understanding of the Ministry of Education of China). Here is [[my resume](./file/zuoyi.pdf)].
 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for a doctoral degree starting in the autumn of 2025. If you are interested in me, please contact me!**
-
-I will reply to any emails related to PhD, if you have not received my reply. Please try my other email: yzuo_1@stu.xidian.edu.cn.
+If you have not received my reply. Please try my other email: yzuo_1@stu.xidian.edu.cn.
 
 - **Sep 2018 - June 2022:** Xidian University (School of Economics and Management-Electronic Commerce).
 - **Sep 2022 - June 2025:** Xidian University (School of Artificial Intelligence-Computer Science and Technology), supervised by [Prof. Cheng Jiao Li](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en)
@@ -28,9 +26,9 @@ I will reply to any emails related to PhD, if you have not received my reply. Pl
 
 ## Research Interests
 
-- Video Editing
+- Image/Video Editing
 - Video Generation
-- Change Detection in Remote Sensing
+- Diffusion Inversion and Sample
 
 My current research focus is on **computer vision**. I hope to dedicate my talents to this meaningful cause and bring happiness to society.
 
